@@ -1,0 +1,31 @@
+Appodoc
+
+Ramavath Sai Srithan
+Roll No: 210050132
+Project Overview
+
+The Appodoc project was aimed at developing a user-friendly mobile application tailored
+for IIT Bombay students and doctors. The primary objective was to enhance accessibility
+and streamline interactions between students and healthcare providers, making medical
+services more efficient and convenient.
+
+Project Contributions
+
+React Native Development:
+The core of the project involved the development of the Appodoc mobile application using
+React Native, a popular framework for building cross-platform apps. React Native was
+chosen for its ability to deliver a consistent user experience across both iOS and Android
+devices. The app was designed to be intuitive and user-friendly, ensuring that students
+and doctors could easily navigate and use its features.
+
+Interactive Features:
+Appodoc was equipped with several interactive features to improve the overall user experience. The app allowed users to book appointments with doctors seamlessly, manage
+their medical reports, and handle personal data securely. These features were designed to
+address the specific needs of the IIT Bombay community, providing a centralized platform
+for managing healthcare-related tasks.
+
+Results and Achievements:
+The development of Appodoc resulted in a robust and accessible mobile application that
+effectively catered to the healthcare needs of IIT Bombay students and doctors. The
+app’s user-friendly interface and comprehensive feature set contributed to its success as
+a valuable tool for managing medical appointments and records.
